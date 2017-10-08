@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "881086633545",
+    "firebase_url": "https://ledfirebaseproject-2ecea.firebaseio.com",
+    "project_id": "ledfirebaseproject-2ecea",
+    "storage_bucket": "ledfirebaseproject-2ecea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881086633545:android:7ca14b7516aa0c5d",
+        "android_client_info": {
+          "package_name": "com.led.led"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881086633545-pqkiqmhvbtrj6o1cbu7lfq2328d1nbek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.led.led",
+            "certificate_hash": "ba6e12d766a76f138df512fdf7a230f564734813"
+          }
+        },
+        {
+          "client_id": "881086633545-ufcl6k0s11p1brdiv56do303usj86keg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmkLzwQjNbbcBte_i226TYRFOPqf3sWT0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881086633545-ufcl6k0s11p1brdiv56do303usj86keg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
